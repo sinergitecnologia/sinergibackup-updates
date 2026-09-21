@@ -1,11 +1,12 @@
 {
   "channel": "beta",
-  "latestVersion": "0.0.0-beta.0",
-  "minimumSupportedVersion": "0.0.0",
+  "latestVersion": "0.1.0-alpha",
+  "minimumSupportedVersion": "0.1.0-alpha",
   "publishedAt": null,
   "downloadUrl": null,
   "sha256": null,
   "sizeBytes": null,
   "releaseNotesUrl": null,
-  "mandatory": false
+  "mandatory": false,
+  "status": "build-ready"
 }
