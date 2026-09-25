@@ -1,11 +1,11 @@
 {
-  "channel": "stable",
-  "latestVersion": "0.0.0",
-  "minimumSupportedVersion": "0.0.0",
-  "publishedAt": null,
-  "downloadUrl": null,
-  "sha256": null,
-  "sizeBytes": null,
-  "releaseNotesUrl": null,
-  "mandatory": false
+    "channel":  "stable",
+    "latestVersion":  "0.2.0",
+    "minimumSupportedVersion":  "0.2.0",
+    "publishedAt":  "2026-09-25T20:04:17.7896419+00:00",
+    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup/releases/download/v0.2.0/SinergiBackup-Setup-0.2.0.exe",
+    "sha256":  "FC2E86AA116CB83DA02AC559EAC11A1F4F168CFDBA9FFC2FD8FC7CA57745743C",
+    "sizeBytes":  69191206,
+    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup/releases/tag/v0.2.0",
+    "mandatory":  false
 }
