@@ -1,12 +1,12 @@
 {
     "channel":  "stable",
-    "latestVersion":  "0.2.0",
+    "latestVersion":  "0.2.1",
     "minimumSupportedVersion":  "0.2.0",
-    "publishedAt":  "2026-09-25T20:26:00.0487192Z",
-    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.2.0/SinergiBackup-Setup-0.2.0.exe",
-    "sha256":  "FC2E86AA116CB83DA02AC559EAC11A1F4F168CFDBA9FFC2FD8FC7CA57745743C",
-    "sizeBytes":  69191206,
-    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.2.0",
-    "releaseNotes":  "Sinergi Backup v0.2.0 - atualizacoes automaticas e licenciamento.",
+    "publishedAt":  "2026-09-26T14:11:24.6421763Z",
+    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.2.1/SinergiBackup-Setup-0.2.1.exe",
+    "sha256":  "38BCE728F929BDB238731D638F8D79A3A7BDAF4F2992F92492BF65B41356D656",
+    "sizeBytes":  72945302,
+    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.2.1",
+    "releaseNotes":  "Sinergi Backup v0.2.1 - correcoes de interface e reforco na seguranca do armazenamento de licencas.",
     "mandatory":  false
 }
