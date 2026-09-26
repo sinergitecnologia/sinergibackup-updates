@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/sinergitecnologia/sinergibackup/main/src/Sinergi.Backup.Desktop/Assets/logo_sinergi.png" alt="Sinergi Backup" width="150" />
+
 # Sinergi Backup
 
 ### Backup, proteção e recuperação de dados para Windows
