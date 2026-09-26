@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sinergitecnologia/sinergibackup/main/src/Sinergi.Backup.Desktop/Assets/logo_sinergi.png" alt="Sinergi Backup" width="150" />
+<img src="./logo.png" alt="Sinergi Backup" width="150" />
 
 # Sinergi Backup
 
