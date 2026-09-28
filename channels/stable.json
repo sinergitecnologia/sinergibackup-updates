@@ -1,4 +1,4 @@
-﻿{
+{
     "channel":  "stable",
     "latestVersion":  "0.3.0",
     "minimumSupportedVersion":  "0.2.0",
@@ -7,13 +7,6 @@
     "sha256":  "2F4CB726C403E137BF822B069802B57267006C9ADD00329F1D5B6908F8F5ACDF",
     "sizeBytes":  71740755,
     "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.3.0",
-    "releaseNotes":  [
-                         "Free PC automatico para backup local.",
-                         "Plano Basic com backup local e de rede, Full/Incremental e VSS.",
-                         "Backup de SQL Server no Advanced DB.",
-                         "Backup OneDrive implementado no Advanced 365; E2E real pendente por indisponibilidade de ambiente Microsoft 365.",
-                         "Backup Hyper-V implementado no Advanced VM; E2E real pendente por ausencia de VM no host de teste.",
-                         "Alinhamento das funcionalidades dos planos comerciais."
-                     ],
+    "releaseNotes":  "Free PC automatico para backup local.\nPlano Basic com backup local e de rede, Full/Incremental e VSS.\nBackup de SQL Server no Advanced DB.\nBackup OneDrive implementado no Advanced 365; E2E real pendente por indisponibilidade de ambiente Microsoft 365.\nBackup Hyper-V implementado no Advanced VM; E2E real pendente por ausencia de VM no host de teste.\nAlinhamento das funcionalidades dos planos comerciais.",
     "mandatory":  false
 }
