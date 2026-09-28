@@ -103,14 +103,29 @@ Pass "minimumSupportedVersion valido: $($manifest.minimumSupportedVersion)"
 # Data de publicacao
 # ------------------------------------------------------------
 
-if ($manifest.publishedAt -isnot [string]) {
-    Fail "publishedAt deve ser string."
+$publishedAtText = if ($manifest.publishedAt -is [DateTime]) {
+    $manifest.publishedAt.ToUniversalTime().ToString(
+        "o",
+        [System.Globalization.CultureInfo]::InvariantCulture
+    )
+}
+elseif ($manifest.publishedAt -is [DateTimeOffset]) {
+    $manifest.publishedAt.ToUniversalTime().ToString(
+        "o",
+        [System.Globalization.CultureInfo]::InvariantCulture
+    )
+}
+elseif ($manifest.publishedAt -is [string]) {
+    $manifest.publishedAt
+}
+else {
+    Fail "publishedAt deve representar uma data/hora valida."
 }
 
 $publishedDate = [DateTimeOffset]::MinValue
 
 if (-not [DateTimeOffset]::TryParse(
-    $manifest.publishedAt,
+    $publishedAtText,
     [System.Globalization.CultureInfo]::InvariantCulture,
     [System.Globalization.DateTimeStyles]::RoundtripKind,
     [ref]$publishedDate
