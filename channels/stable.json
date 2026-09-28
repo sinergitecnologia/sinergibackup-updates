@@ -1,12 +1,12 @@
 {
     "channel":  "stable",
-    "latestVersion":  "0.4.0",
+    "latestVersion":  "0.4.1",
     "minimumSupportedVersion":  "0.2.0",
-    "publishedAt":  "2026-09-28T19:44:51Z",
-    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.0/SinergiBackup-Setup-0.4.0.exe",
-    "sha256":  "70A5ED886E1D29B5C063077F7C8CDDB8858A076E8E4D96F0FAEE4EB13B737383",
-    "sizeBytes":  75514855,
-    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.0",
-    "releaseNotes":  "Sinergi Backup v0.4.0.\n\nNovo painel de saude dos backups com proxima execucao, falhas recentes, backups nunca executados e atrasados.\nIndicador individual de saude para cada backup.\nExecucao manual pelo comando Executar agora.\nMenu de contexto completo com editar, ativar/desativar, duplicar, renomear, historico, abrir destino e excluir.\nMelhorias no historico e no cabecalho para nomes extensos de backup.\nReforco na integracao entre Desktop e Windows Service.\nHardening de locks, jobs legados e permissoes dos dados compartilhados em ProgramData.\nMelhorias de estabilidade e preparacao da instalacao/atualizacao.",
+    "publishedAt":  "2026-09-28T23:23:38Z",
+    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.1/SinergiBackup-Setup-0.4.1.exe",
+    "sha256":  "E5ADEF136E5375B2DC8FB1FCF34741FF16531E8FDF569D9F6F5632C52A8D374F",
+    "sizeBytes":  75529048,
+    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.1",
+    "releaseNotes":  "Sinergi Backup v0.4.1.\n\nO plano FREE PC passa a permitir exclusivamente backup local de arquivos, com limite máximo de 500 MB por backup.\nA disponibilidade do backup de banco de dados foi alinhada aos recursos permitidos pelo plano contratado.\nA execução manual agora valida os limites e permissões do plano antes de iniciar o processamento em segundo plano.\nNova mensagem profissional informa quando um backup ultrapassa o limite de 500 MB do plano FREE PC.\nMelhorias de consistência entre a interface Desktop e as validações executadas pelo Windows Service.",
     "mandatory":  false
 }
