@@ -1,17 +1,19 @@
-{
+﻿{
     "channel":  "stable",
-    "latestVersion":  "0.2.2",
+    "latestVersion":  "0.3.0",
     "minimumSupportedVersion":  "0.2.0",
-    "publishedAt":  "2026-09-26T15:24:17Z",
-    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.2.2/SinergiBackup-Setup-0.2.2.exe",
-    "sha256":  "AA89D3B3E2450EBC5E76DBA8E054DAB9194CBBADAFA01ED8394B637DA9ECB6CA",
-    "sizeBytes":  69191052,
-    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.2.2",
+    "publishedAt":  "2026-09-28T14:49:44Z",
+    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.3.0/SinergiBackup-Setup-0.3.0.exe",
+    "sha256":  "2F4CB726C403E137BF822B069802B57267006C9ADD00329F1D5B6908F8F5ACDF",
+    "sizeBytes":  71740755,
+    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.3.0",
     "releaseNotes":  [
-                         "Instalador localizado em Português (Brasil).",
-                         "Correção de caracteres e acentuação do instalador.",
-                         "Distribuição Windows x64 self-contained.",
-                         "Não requer instalação separada do .NET Desktop Runtime."
+                         "Free PC automatico para backup local.",
+                         "Plano Basic com backup local e de rede, Full/Incremental e VSS.",
+                         "Backup de SQL Server no Advanced DB.",
+                         "Backup OneDrive implementado no Advanced 365; E2E real pendente por indisponibilidade de ambiente Microsoft 365.",
+                         "Backup Hyper-V implementado no Advanced VM; E2E real pendente por ausencia de VM no host de teste.",
+                         "Alinhamento das funcionalidades dos planos comerciais."
                      ],
     "mandatory":  false
 }
