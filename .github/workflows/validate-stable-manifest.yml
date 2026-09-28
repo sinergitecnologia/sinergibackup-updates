@@ -1,0 +1,36 @@
+name: Validate stable manifest
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "channels/stable.json"
+      - "scripts/Test-StableManifest.ps1"
+      - ".github/workflows/validate-stable-manifest.yml"
+
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "channels/stable.json"
+      - "scripts/Test-StableManifest.ps1"
+      - ".github/workflows/validate-stable-manifest.yml"
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-stable-manifest:
+    name: Validate stable manifest
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate stable manifest contract
+        shell: pwsh
+        run: .\scripts\Test-StableManifest.ps1 -ManifestPath ".\channels\stable.json"
