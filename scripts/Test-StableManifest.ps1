@@ -99,6 +99,22 @@ if (
 
 Pass "minimumSupportedVersion valido: $($manifest.minimumSupportedVersion)"
 
+# A versao minima suportada nunca pode ser superior
+# a versao publicada no canal stable.
+try {
+    $latestVersionObject  = [System.Version]::Parse($manifest.latestVersion)
+    $minimumVersionObject = [System.Version]::Parse($manifest.minimumSupportedVersion)
+}
+catch {
+    Fail "Nao foi possivel comparar latestVersion e minimumSupportedVersion."
+}
+
+if ($minimumVersionObject -gt $latestVersionObject) {
+    Fail "minimumSupportedVersion nao pode ser superior a latestVersion."
+}
+
+Pass "Ordem das versoes valida: minimumSupportedVersion <= latestVersion."
+
 # ------------------------------------------------------------
 # Data de publicacao
 # ------------------------------------------------------------
