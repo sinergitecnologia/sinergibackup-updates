@@ -6,13 +6,13 @@
 
 ### Backup, proteção e recuperação de dados para Windows
 
-[![Versão](https://img.shields.io/badge/versão-v0.4.1-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.1)
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.1)
+[![Versão](https://img.shields.io/badge/versão-v0.4.2-blue?style=for-the-badge)](https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.2)
+[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.2)
 [![Release](https://img.shields.io/github/v/release/sinergitecnologia/sinergibackup-updates?style=for-the-badge&label=Release)](https://github.com/sinergitecnologia/sinergibackup-updates/releases)
 
-## ⬇️ [BAIXAR SINERGI BACKUP V0.4.1 PARA WINDOWS](https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.1/SinergiBackup-Setup-0.4.1.exe)
+## ⬇️ [BAIXAR SINERGI BACKUP V0.4.1 PARA WINDOWS](https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.2/SinergiBackup-Setup-0.4.2.exe)
 
-**Versão estável atual: v0.4.1**
+**Versão estável atual: v0.4.2**
 
 </div>
 
@@ -28,11 +28,11 @@ A distribuição oficial e os metadados de atualização do aplicativo são mant
 
 ## Download
 
-> ### [➡️ Clique aqui para baixar o instalador oficial v0.4.1](https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.1/SinergiBackup-Setup-0.4.1.exe)
+> ### [➡️ Clique aqui para baixar o instalador oficial v0.4.2](https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.2/SinergiBackup-Setup-0.4.2.exe)
 
 Arquivo oficial:
 
-`SinergiBackup-Setup-0.4.1.exe`
+`SinergiBackup-Setup-0.4.2.exe`
 
 Tamanho:
 
@@ -44,12 +44,12 @@ SHA-256:
 
 Você também pode consultar a página da distribuição:
 
-[Sinergi Backup v0.4.1 — Distribution](https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.1)
+[Sinergi Backup v0.4.2 — Distribution](https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.2)
 
 ## Instalação
 
 1. Clique no botão de download acima.
-2. Baixe o arquivo `SinergiBackup-Setup-0.4.1.exe`.
+2. Baixe o arquivo `SinergiBackup-Setup-0.4.2.exe`.
 3. Execute o instalador no Windows.
 4. Conclua as etapas apresentadas pelo instalador.
 5. Abra o **Sinergi Backup** pelo menu Iniciar ou pelo atalho criado durante a instalação.
@@ -76,7 +76,7 @@ A versão mínima atualmente suportada pelo atualizador é:
 
 ## Versão estável
 
-### Sinergi Backup v0.4.1
+### Sinergi Backup v0.4.2
 
 Esta é a versão estável atualmente publicada para distribuição.
 
@@ -123,7 +123,7 @@ Baixe o **Sinergi Backup somente através deste repositório oficial**.
 
 Os instaladores são publicados na área de Releases da organização **Sinergitech Tecnologia** e o canal de atualização informa dados de integridade para conferência do arquivo distribuído.
 
-Para a versão v0.4.1:
+Para a versão v0.4.2:
 
 - SHA-256: `2F4CB726C403E137BF822B069802B57267006C9ADD00329F1D5B6908F8F5ACDF`
 - Tamanho: `71.740.755 bytes`
@@ -153,6 +153,6 @@ Em caso de dúvidas sobre instalação, atualização, licenciamento ou utiliza�
 
 *Sinergi Backup — distribuição oficial para Windows*
 
-[Baixar v0.4.1](https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.1/SinergiBackup-Setup-0.4.1.exe) • [Histórico de versões](https://github.com/sinergitecnologia/sinergibackup-updates/releases)
+[Baixar v0.4.2](https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.2/SinergiBackup-Setup-0.4.2.exe) • [Histórico de versões](https://github.com/sinergitecnologia/sinergibackup-updates/releases)
 
 </div>
