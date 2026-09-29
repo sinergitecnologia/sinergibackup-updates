@@ -1,12 +1,12 @@
 {
     "channel":  "stable",
-    "latestVersion":  "0.4.1",
+    "latestVersion":  "0.4.2",
     "minimumSupportedVersion":  "0.2.0",
-    "publishedAt":  "2026-09-28T23:23:38Z",
-    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.1/SinergiBackup-Setup-0.4.1.exe",
-    "sha256":  "E5ADEF136E5375B2DC8FB1FCF34741FF16531E8FDF569D9F6F5632C52A8D374F",
-    "sizeBytes":  75529048,
-    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.1",
-    "releaseNotes":  "Sinergi Backup v0.4.1.\n\nO plano FREE PC passa a permitir exclusivamente backup local de arquivos, com limite máximo de 500 MB por backup.\nA disponibilidade do backup de banco de dados foi alinhada aos recursos permitidos pelo plano contratado.\nA execução manual agora valida os limites e permissões do plano antes de iniciar o processamento em segundo plano.\nNova mensagem profissional informa quando um backup ultrapassa o limite de 500 MB do plano FREE PC.\nMelhorias de consistência entre a interface Desktop e as validações executadas pelo Windows Service.",
+    "publishedAt":  "2026-09-29T23:00:42Z",
+    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.2/SinergiBackup-Setup-0.4.2.exe",
+    "sha256":  "F1CF70ACDB41B93F82B1B6667054FA1EECB009E1572B6E2C5624ECCE449AF250",
+    "sizeBytes":  99264566,
+    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.2",
+    "releaseNotes":  "Sinergi Backup v0.4.2.\n\nO instalador passa a incluir o Microsoft Visual C++ Redistributable x64 como pre-requisito offline e instala o componente automaticamente quando necessario.\nFoi adicionada validacao de compatibilidade e dos componentes UCRT necessarios, incluindo tratamento especifico para Windows Server 2012 R2.\nO processo de instalacao e atualizacao passa a configurar, iniciar e validar o Windows Service antes de concluir a instalacao.\nNovo health check IPC valida a comunicacao real com o Sinergi Backup Service.\nMelhorias no processo de upgrade preservam configuracoes, licenca, identificacao da instalacao, jobs, historico e demais dados persistentes.\nEm sistemas Windows Server 2012 R2 sem os componentes estruturais UCRT exigidos pelo Windows, o instalador identifica a ausencia e orienta a regularizacao antes de prosseguir.",
     "mandatory":  false
 }
