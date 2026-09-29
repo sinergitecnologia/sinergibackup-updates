@@ -10,7 +10,7 @@
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.2)
 [![Release](https://img.shields.io/github/v/release/sinergitecnologia/sinergibackup-updates?style=for-the-badge&label=Release)](https://github.com/sinergitecnologia/sinergibackup-updates/releases)
 
-## ⬇️ [BAIXAR SINERGI BACKUP V0.4.1 PARA WINDOWS](https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.2/SinergiBackup-Setup-0.4.2.exe)
+## ⬇️ [BAIXAR SINERGI BACKUP V0.4.2 PARA WINDOWS](https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.2/SinergiBackup-Setup-0.4.2.exe)
 
 **Versão estável atual: v0.4.2**
 
