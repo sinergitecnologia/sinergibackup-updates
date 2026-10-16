@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo_sinergi.png" alt="Sinergi Backup" width="150" />
+<img src="./logo.png" alt="Sinergi Backup" width="150" />
 
 # Sinergi Backup
 
