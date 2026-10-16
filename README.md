@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo-tropical.png" alt="Tropical Multiloja" width="220">
+
 <img src="./logo.png" alt="Sinergi Backup" width="150" />
 
 # Sinergi Backup
@@ -148,6 +150,8 @@ Em caso de dúvidas sobre instalação, atualização, licenciamento ou utiliza�
 ---
 
 <div align="center">
+
+<img src="assets/logo-tropical.png" alt="Tropical Multiloja" width="220">
 
 **Sinergi | Software e Serviços de Gestão**
 
