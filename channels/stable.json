@@ -1,12 +1,12 @@
 {
     "channel":  "stable",
-    "latestVersion":  "0.4.2",
+    "latestVersion":  "0.4.3",
     "minimumSupportedVersion":  "0.2.0",
-    "publishedAt":  "2026-09-29T23:00:42Z",
-    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.2/SinergiBackup-Setup-0.4.2.exe",
-    "sha256":  "F1CF70ACDB41B93F82B1B6667054FA1EECB009E1572B6E2C5624ECCE449AF250",
-    "sizeBytes":  99264566,
-    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.2",
-    "releaseNotes":  "Sinergi Backup v0.4.2.\n\nO instalador passa a incluir o Microsoft Visual C++ Redistributable x64 como pre-requisito offline e instala o componente automaticamente quando necessario.\nFoi adicionada validacao de compatibilidade e dos componentes UCRT necessarios, incluindo tratamento especifico para Windows Server 2012 R2.\nO processo de instalacao e atualizacao passa a configurar, iniciar e validar o Windows Service antes de concluir a instalacao.\nNovo health check IPC valida a comunicacao real com o Sinergi Backup Service.\nMelhorias no processo de upgrade preservam configuracoes, licenca, identificacao da instalacao, jobs, historico e demais dados persistentes.\nEm sistemas Windows Server 2012 R2 sem os componentes estruturais UCRT exigidos pelo Windows, o instalador identifica a ausencia e orienta a regularizacao antes de prosseguir.",
+    "publishedAt":  "2026-11-03T16:44:39Z",
+    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.3/SinergiBackup-Setup-0.4.3.exe",
+    "sha256":  "041FFBFA8322166DFE364E9FDCD5CA2452C92AF757A2980D809272E32F0424B1",
+    "sizeBytes":  95543428,
+    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.3",
+    "releaseNotes":  "Sinergi Backup v0.4.3: correção da grafia de Configurações no Desktop.",
     "mandatory":  false
 }
