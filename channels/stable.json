@@ -1,12 +1,12 @@
 {
     "channel":  "stable",
-    "latestVersion":  "0.4.3",
+    "latestVersion":  "0.4.4",
     "minimumSupportedVersion":  "0.2.0",
-    "publishedAt":  "2026-11-03T16:44:39Z",
-    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.3/SinergiBackup-Setup-0.4.3.exe",
-    "sha256":  "041FFBFA8322166DFE364E9FDCD5CA2452C92AF757A2980D809272E32F0424B1",
-    "sizeBytes":  95543428,
-    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.3",
-    "releaseNotes":  "Sinergi Backup v0.4.3: correção da grafia de Configurações no Desktop.",
+    "publishedAt":  "2026-11-03T17:15:50Z",
+    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.4/SinergiBackup-Setup-0.4.4.exe",
+    "sha256":  "45DA5A885BFD94086DDD3BD3CCE162DFE5F0AABBDC4F8B0E18FA58AB1DF23744",
+    "sizeBytes":  95539247,
+    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.4",
+    "releaseNotes":  "Sinergi Backup v0.4.4: correção da grafia e acentuação de Área de Trabalho no instalador.",
     "mandatory":  false
 }
