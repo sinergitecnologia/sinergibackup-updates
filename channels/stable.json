@@ -1,12 +1,12 @@
 {
     "channel":  "stable",
-    "latestVersion":  "0.4.5",
+    "latestVersion":  "0.4.6",
     "minimumSupportedVersion":  "0.2.0",
-    "publishedAt":  "2026-11-03T20:14:02Z",
-    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.5/SinergiBackup-Setup-0.4.5.exe",
-    "sha256":  "98FDA55A20D4B75D78C7C206751C48C26EDFEE7D775AA8825818B2156564ADB3",
-    "sizeBytes":  98520291,
-    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/tag/dist-v0.4.5",
-    "releaseNotes":  "Sinergi Backup v0.4.5: adicionada seleção de pasta para Rede/NAS.",
+    "publishedAt":  "2026-11-03T20:45:22Z",
+    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.6/SinergiBackup-Setup-0.4.6.exe",
+    "sha256":  "764569FBF4EC9709C9BD3E235CD1BF67F2ACD244C776B4B1276D8342142D6B79",
+    "sizeBytes":  98533508,
+    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup/releases/tag/v0.4.6",
+    "releaseNotes":  "Corrigido o versionamento do Desktop para 0.4.6.0, evitando solicitacoes repetidas de atualizacao.",
     "mandatory":  false
 }
