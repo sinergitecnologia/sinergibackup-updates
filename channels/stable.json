@@ -1,12 +1,12 @@
-{
+﻿{
     "channel":  "stable",
-    "latestVersion":  "0.4.6",
+    "latestVersion":  "0.4.7",
     "minimumSupportedVersion":  "0.2.0",
-    "publishedAt":  "2026-11-03T20:45:22Z",
-    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.6/SinergiBackup-Setup-0.4.6.exe",
-    "sha256":  "764569FBF4EC9709C9BD3E235CD1BF67F2ACD244C776B4B1276D8342142D6B79",
-    "sizeBytes":  98533508,
-    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup/releases/tag/v0.4.6",
-    "releaseNotes":  "Corrigido o versionamento do Desktop para 0.4.6.0, evitando solicitacoes repetidas de atualizacao.",
+    "publishedAt":  "2026-11-04T00:59:40Z",
+    "downloadUrl":  "https://github.com/sinergitecnologia/sinergibackup-updates/releases/download/dist-v0.4.7/SinergiBackup-Setup-0.4.7.exe",
+    "sha256":  "7B43FAA0AEC36ECEEDB97E992216F8442CB9B721C7DFC9A206B429DB2B9F4AFD",
+    "sizeBytes":  95538148,
+    "releaseNotesUrl":  "https://github.com/sinergitecnologia/sinergibackup/releases/tag/v0.4.7",
+    "releaseNotes":  "Melhorias no instalador, versionamento e correcao de acentuacao.",
     "mandatory":  false
 }
